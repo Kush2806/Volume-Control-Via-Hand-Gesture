@@ -12,19 +12,11 @@ A real-time computer vision project that enables users to control their system v
 - **Modular Design:** Clean separation between hand tracking logic and application logic for easy extensibility.
 
 ---
-
-## Demo
-
-![Demo GIF](demo.gif)  
-*Adjust your system volume by pinching your fingers!*
-
----
-
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Volume-Control-Via-Hand-Gesture.git
+   git clone https://github.com/Kush2806/Volume-Control-Via-Hand-Gesture.git
    cd Volume-Control-Via-Hand-Gesture
    ```
 
