@@ -1,7 +1,3 @@
-Here’s a professional and impressive README file for your project, based on the provided files and their functionality:
-
----
-
 # Volume Control via Hand Gesture
 
 A real-time computer vision project that enables users to control their system volume using hand gestures, powered by OpenCV, MediaPipe, and Pycaw. The system detects hand landmarks from a webcam feed and maps the distance between the thumb and index finger to the system's master volume.
